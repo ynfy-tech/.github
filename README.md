@@ -154,12 +154,6 @@
 </tbody>
 <tbody>
 	<td>✅</td>
-	<td>熟人</td>
-	<td>✅</td>
-	<td>备注</td>
-</tbody>
-<tbody>
-	<td>✅</td>
 	<td>提供较为成熟的行业解决方案</td>
 	<td>❌</td>
 	<td>备注</td>
