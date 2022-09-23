@@ -19,11 +19,11 @@
 
 + 技术栈：Vue, React, Element, Jupyter, Node, Threejs
 
-##### Hsiong (全栈开发)
+##### Hsiong (架构设计)
 
-曾就职科大国创和中国电信, 精通物联网集成和高并发设计, 参与设计过多个中大型项目。
+曾就职科大国创和某物业集团, 精通物联网集成, 熟悉企业信息化方案和复杂业务系统设计, 有多个中大型项目的落地经验。
 
-+ 技术栈: JAVA, Vue, Typescript, C++, Linux, 各类中间件, SQL
++ 技术栈: JAVA, Go, Vue, Linux, 各类中间件, SQL
 
 ##### 小皮（全栈开发）
 曾就职多家医疗科技企业, 熟悉医疗行业痛点以及全流程解决方案, 包括医共体信息化平台、基因测序实验室管理系统、医疗设备管理系统、医院自助无人终端系统、智慧门诊服务平台等等
@@ -98,62 +98,61 @@
 </table>
 
 
-## 我们的特色
-相对优势: ✅  
+## 我们的目标
+我们的目标是, 打破技术壁垒, 战胜经济下行背景下的大厂技术人才下沉, 业务着眼于云南本土, 技术对标ATM ~ 
 相对劣势: ❌
 
 <table>
 <thead>
-	<td>小厂</td>
 	<td>我们的优势</td>
 	<td>大厂</td>
 	<td>备注</td>
 </thead>
 <tbody>
-	<td>✅</td>
+
 	<td>相对顶尖的技术能力</td>
 	<td>❌</td>
 	<td>选个技术向的赛道</td>
 </tbody>
   <tbody>
-    <td>✅</td>
+
     <td>相对成熟的项目经验</td>
     <td>❌</td>
     <td>备注</td>
   </tbody>
     <tbody>
-    <td>✅</td>
+
     <td>系统较为稳定</td>
     <td>❌</td>
     <td>备注</td>
   </tbody>
     </tbody>
     <tbody>
-    <td>✅</td>
+
     <td>系统容易拓展</td>
     <td>❌</td>
     <td>备注</td>
   </tbody>
 <tbody>
-	<td>❌</td>
+
 	<td>相对低廉的价格</td>
 	<td>✅</td>
 	<td>备注</td>
 </tbody>
 <tbody>
-	<td>❌</td>
+
 	<td>相对快速的开发</td>
 	<td>❌</td>
 	<td>一定要向 sass 和低代码前进</td>
 </tbody>
 <tbody>
-	<td>❌</td>
+
 	<td>本土化优势</td>
 	<td>✅</td>
 	<td>备注</td>
 </tbody>
 <tbody>
-	<td>✅</td>
+
 	<td>提供较为成熟的行业解决方案</td>
 	<td>❌</td>
 	<td>备注</td>
