@@ -36,7 +36,7 @@
 + 技术栈: Node, JAVA, React, Vue, Typescript, Flutter, GraphQL
 
 ##### 厨子(全栈开发)
-一个快乐的厨子, 某杭州公司主程。
+一个快乐的厨子, 深圳某公司主程。
 
 + 技术栈: JAVA, Vue, JavaScript, 各类中间件, SQL
 
